@@ -1,0 +1,16 @@
+{
+  "name": "public-utility-bill-payment",
+  "version": "1.0.0",
+  "description": "A system for Mangalore citizens to manage utility bill payments and generate invoices.",
+  "main": "app.js",
+  "scripts": {
+      "start": "node app.js"
+  },
+  "dependencies": {
+      "express": "^4.18.2",
+      "fs-extra": "^11.1.1"
+  },
+  "author": "User",
+  "license": "ISC"
+}
+
